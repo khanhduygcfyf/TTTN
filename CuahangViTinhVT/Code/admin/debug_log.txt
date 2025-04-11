@@ -1,0 +1,65 @@
+Array
+(
+    [id] => 12
+    [tenHang] => Dell văn phòng
+)
+Array
+(
+    [id] => 12
+    [tenHang] => Dell văn phòng
+)
+Array
+(
+    [id] => 6
+    [tenHang] => Dell văn phòng
+)
+Array
+(
+    [id] => 13
+    [tenHang] => Camera
+)
+Raw Input: 
+Decoded JSON: 
+Array
+(
+    [id] => 13
+    [tenHang] => Camera
+)
+Array
+(
+    [id] => 13
+    [tenHang] => Camera
+)
+Raw Input: 
+Decoded JSON: Dữ liệu JSON không tồn tại hoặc không hợp lệ
+Raw Input: 
+Decoded JSON: Dữ liệu JSON không tồn tại hoặc không hợp lệ
+Raw Input: {"id":"13","tenHang":"Camera"}
+Decoded JSON: Array
+(
+    [id] => 13
+    [tenHang] => Camera
+)
+Array
+(
+    [id] => 13
+    [tenHang] => Camera
+)
+Raw Input: 
+Raw Input is empty
+Raw Input: 
+Raw Input is empty
+Raw Input: {"id":"13","tenHang":"Camera"}
+Decoded JSON: Array
+(
+    [id] => 13
+    [tenHang] => Camera
+)
+Email đã được gửi thành công đến arcblu2@gmail.com
+Raw Input: {"id":"13","tenHang":"Camera"}
+Decoded JSON: Array
+(
+    [id] => 13
+    [tenHang] => Camera
+)
+Email đã được gửi thành công đến arcblu2@gmail.com
